@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#btn{
+    /* background-color: black; */
+    /* color: white; */
+    margin: 10px 10px;
+    width: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#para{
+    margin: 10px 20px;
+    /* background-color:black;
+    color: white; */
+    width: 10%;
+    /* border: 2px solid; */
+   
+}
+
+#para li {
+    list-style: none;
+    
+}
+
+#para li a{
+    text-decoration: none;
+}
+
+#para li a:hover{
+    background-color: black;
+    color: white;
+}
+
+/* #sidebar{
+    height: 100%;
+    width: 200px;
+    /* background-color: blue; 
+} */
